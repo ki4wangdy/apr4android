@@ -1,0 +1,10 @@
+
+
+This code is transfered from apr ( apache portable runtime ), in the folder apr4android, there is android part, you can enter it,can use NDK to complie it,when complied ,test4apr will be produced, it is just an executable file, you can push it into emulator,and check whether or not it can run successfully . Any comment will be appreciated.
+
+NOTE:
+	I had just compiled it successfully in android 2.2 above,
+	
+
+Any comment will be appreciated. You can email me : wangdy861024@163.com
+

@@ -1,0 +1,11 @@
+#! /bin/sh
+#
+# Created by configure
+
+CC="/ndk/standalone/bin/arm-linux-androideabi-gcc"; export CC
+"./configure" \
+"--with-sysroot=/ndk/standalone/sysroot" \
+"--host=arm" \
+"host_alias=arm" \
+"CC=/ndk/standalone/bin/arm-linux-androideabi-gcc" \
+"$@"
